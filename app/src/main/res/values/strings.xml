@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="round">Round?</string>
+    <string name="Calculate">Calculate</string>
+    <string name="TipAmount">Tip amount: %s</string>
+    <string name="twenty">20%</string>
+    <string name="thirty">30%</string>
+    <string name="fifty">50%</string>
+</resources>
